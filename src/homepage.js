@@ -177,7 +177,7 @@ export default class Homepage extends React.Component{
               <Container text>
                 <Header
                   as='h1'
-                  content='Possier'
+                  content='Dossier'
                   inverted
                   style={{fontSize: '4em', fontWeight: 'normal',
                   marginBottom: 0, marginTop: '3em'}}
