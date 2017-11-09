@@ -3,15 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "halogen": "^0.2.0",
+
     "halogenium": "^2.2.2",
-    "history": "^1.17.0",
+
     "react": "^15.6.1",
     "react-bootstrap": "^0.31.3",
     "react-dom": "^15.6.1",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.13",
     "react-scrollable-anchor": "^0.5.0",
+
+    "recharts": "^1.0.0-beta.1",
+    
     "semantic-ui-react": "^0.73.0"
   },
   "scripts": {
